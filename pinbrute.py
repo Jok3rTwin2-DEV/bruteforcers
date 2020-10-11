@@ -1,3 +1,1 @@
-#!/usr/bin/python
-
-def pin_number():
+#!/usr/bin/python3
