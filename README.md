@@ -14,7 +14,7 @@ arch:
 sudo pacman -S python3
 </pre>
 
-fedora
+fedora:
 <pre>
 sudo dnf install python3
 </pre>
