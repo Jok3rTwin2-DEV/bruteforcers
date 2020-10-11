@@ -22,5 +22,5 @@ sudo dnf install python3
 
 usage:
 <pre>
-python3 pinbrute.py "<ip>"
+python3 pinbrute.py 
 </pre>
